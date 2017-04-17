@@ -4,6 +4,8 @@
   font-family: 'Dosis', sans-serif;
   font-size: 20px;
   height: 90px;
+  width: 200px;
+  border: 10px 10px 10px 10px;
 }
 #segundo{
   display: block;
@@ -12,6 +14,9 @@
   font-size: 20px;
   height: 90px;
   border: solid 1px black;
+  width: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 #tercero{
   display: block;
@@ -19,4 +24,6 @@
   font-family: 'Dosis', sans-serif;
   font-size: 20px;
   height: 90px;
+  width: 200px;
+  border: 10px 10px 10px 10px;
 }
