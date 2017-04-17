@@ -1,0 +1,18 @@
+#primero{
+  display: block;
+  background-color: yellow;
+  font-family: 'Dosis', sans-serif;
+  height: 90px;
+}
+#segundo{
+  display: block;
+  background-color: red;
+  font-family: 'Dosis', sans-serif;
+  height: 90px;
+}
+#tercero{
+  display: block;
+  background-color: yellow;
+  font-family: 'Dosis', sans-serif;
+  height: 90px;
+}
