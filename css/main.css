@@ -2,17 +2,21 @@
   display: block;
   background-color: yellow;
   font-family: 'Dosis', sans-serif;
+  font-size: 20px;
   height: 90px;
 }
 #segundo{
   display: block;
   background-color: red;
   font-family: 'Dosis', sans-serif;
+  font-size: 20px;
   height: 90px;
+  border: solid 1px black;
 }
 #tercero{
   display: block;
   background-color: yellow;
   font-family: 'Dosis', sans-serif;
+  font-size: 20px;
   height: 90px;
 }
