@@ -3,21 +3,30 @@
   background-color: yellow;
   font-family: 'Dosis', sans-serif;
   font-size: 20px;
-  padding: 10px;
+  height: 70px;
+  width: 190px;
+  padding-left: 10px;
+  padding-top: 10px;
+  margin-top: 20px  ;
   }
 #segundo{
   display: inline-block;
   background-color: red;
   font-family: 'Dosis', sans-serif;
   font-size: 20px;
-  border: solid 1px black;
-  padding: 10px;
-  padding-right: 55px;
+  height: 70px;
+  width: 190px;
+  padding-top: 10px;
+  padding-left: 10px;
 }
 #tercero{
   display: inline-block;
   background-color: yellow;
   font-family: 'Dosis', sans-serif;
   font-size: 20px;
-  padding: 10px;
+  padding-left: : 10px;
+  height: 70px;
+  width: 190px;
+  padding-top: 10px;
+  padding-left: 10px;
 }
